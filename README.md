@@ -10,6 +10,7 @@ XAML:
 ```
 C#:
 ```
+private string _otpInput = "976584";
 
 private void otpInput_ValueChanged(object sender, OtpInputValueChangedEventArgs e)
 {
